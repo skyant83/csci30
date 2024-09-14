@@ -37,7 +37,7 @@ This repository contains the Python assignment for the CSCI 30 Midterms. Please 
      .\.venv\Scripts\activate
      ```
    - In VS Code, you can automatically enter the virtual environment. Please refer to the clip for more details.
-  ![VS Code Auto Venv Activate](venv.gif)
+  ![VS Code Auto Venv Activate](https://github.com/skyant83/csci30/blob/main/venv.gif?raw=true)
 
 6. **Dependancy Check**:
    - Check if everything has been properly installed:
